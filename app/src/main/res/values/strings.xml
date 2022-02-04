@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <string name="inicio1">Inicio</string>
+    <string name="Biblio">Biblioteca</string>
+    <string name="Buscar1">Buscar</string>
+    <string name="Busc">Artista</string>
+
+
+    <string name="frag1">Fragmento de Inicio </string>
+    <string name="frag2">Fragmento de Biblioteca</string>
+    <string name="frag3">Fragmento de Buscar</string>
+    <string name="frag4">Fragmento de Artista </string>
+
+
+    <string name="mlt1">Usuarios</string>
+    <string name="mlt2">Configuración</string>
+    <string name="mlt3">Información</string>
+    <string name="mlt4">Sobre nosotros</string>
+    <string name="mlt5">Acerca de</string>
+
+</resources>
